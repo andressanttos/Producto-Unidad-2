@@ -31,6 +31,7 @@
 
 *Teorema de Máxima transferencia de Potencia:*
 
+![](img/marco4.jpg)
 
 3. DIAGRAMAS:
 
@@ -48,6 +49,7 @@
 
 *Teorema de Máxima transferencia de Potencia:*
 
+![](img/diagrama4.jpg)
 
 4. EXPLICACIÓN
 
