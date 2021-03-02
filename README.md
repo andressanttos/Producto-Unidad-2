@@ -17,11 +17,36 @@
 
 2. MARCO TEÓRICO
 
+*Teorema de superposición:*
+
 ![](img/)
 
+*Teorema de Thevenin:*
+
+![](img/)
+
+*Teorema de Norton:*
+
+![](img/marco3.jpg)
+
+*Teorema de Máxima transferencia de Potencia:*
 
 
-3. DIAGRAMAS
+3. DIAGRAMAS:
+
+*Teorema de superposición:*
+
+![](img/)
+
+*Teorema de Thevenin:*
+
+![](img/)
+
+*Teorema de Norton:*
+
+![](img/diagrama3.jpg)
+
+*Teorema de Máxima transferencia de Potencia:*
 
 
 4. EXPLICACIÓN
