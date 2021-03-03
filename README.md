@@ -19,7 +19,7 @@
 
 *Teorema de superposición:*
 
-![](img/)
+![](https://github.com/andressanttos/Producto-Unidad-2/blob/main/img/superpo.png)
 
 *Teorema de Thevenin:*
 
