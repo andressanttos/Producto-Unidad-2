@@ -50,9 +50,11 @@
 
 ![](img/diagrama4.jpg)
 
-4. EXPLICACIÓN
+4. EXPLICACIÓN:
 
+![](img/explicacion1.jpg)
 
+![](img/explicacion2.jpg)
 
 
 5. CONCLUSIONES
