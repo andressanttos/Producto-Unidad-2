@@ -22,7 +22,7 @@
 
 *Teorema de Thevenin:*
 
-![](img/)
+![](https://github.com/andressanttos/Producto-Unidad-2/blob/main/img/teorema%20de%20thevenin.png)
 
 *Teorema de Norton:*
 
@@ -40,7 +40,7 @@
 
 *Teorema de Thevenin:*
 
-![](img/)
+![](https://github.com/andressanttos/Producto-Unidad-2/blob/main/img/diagrama%20teorema%20de%20thevenin.png)
 
 *Teorema de Norton:*
 
