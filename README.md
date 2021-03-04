@@ -36,7 +36,7 @@
 
 *Teorema de superposición:*
 
-![](img/)
+![](https://github.com/andressanttos/Producto-Unidad-2/blob/main/img/diagrama%20superposici%C3%B3n.png)
 
 *Teorema de Thevenin:*
 
